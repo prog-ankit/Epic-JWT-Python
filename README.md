@@ -20,7 +20,7 @@ AUTH_URL=https://fhir.epic.com/interconnect-fhir-oauth/oauth2/token
 PRIVATE_KEY_PATH=FILE_PATH_FOR_PRIVATE_KEY
 BASE_URI=https://fhir.epic.com/interconnect-fhir-oauth/api/FHIR/
 GROUP_ID=e3iabhmS8rsueyz7vaimuiaSmfGvi.QwjVXJANlPOgR83
-
+```
 <h2>Script Functionalities</h2>
 
 <h3>generate_keys.sh</h3>
@@ -91,3 +91,10 @@ eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ
 </ul>
 
 <hr>
+
+<h2>Screenshots:</h2>
+![EPIC 1](https://github.com/user-attachments/assets/233b7c07-44ae-4610-a42c-4d7244d28eaa)
+![EPIC 2](https://github.com/user-attachments/assets/6e6c4e80-e912-4fdb-9c52-19f07ad38760)
+
+
+        

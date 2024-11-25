@@ -93,8 +93,10 @@ eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ
 <hr>
 
 <h2>Screenshots:</h2>
-![EPIC 1](https://github.com/user-attachments/assets/233b7c07-44ae-4610-a42c-4d7244d28eaa)
-![EPIC 2](https://github.com/user-attachments/assets/6e6c4e80-e912-4fdb-9c52-19f07ad38760)
+
+![EPIC 1](https://github.com/user-attachments/assets/8e016869-1124-49b4-a196-9ae3f07225e7)
+
+![EPIC 2](https://github.com/user-attachments/assets/4def51bd-1dd4-4b26-8f42-31732cb160bb)
 
 
         

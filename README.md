@@ -1,14 +1,38 @@
 # Bulk Data Request Using JWT Authentication
 
 ## Overview
+### Epic on FHIR
+<p>Epic is a strong supporter of the HL7® FHIR® standard as the future of REST-based interoperability. 
+Epic on FHIR is a free resource for developers who create apps for use by patients and healthcare organizations.</p>
 
+##
+
+### EPIC REST Services
+<p>EPIC provides various REST services to manipulate resources for FHIR messages. These resources include:</p>
+<ul>
+    <li>Account</li>
+    <li>Encounter</li>
+    <li>Patient</li>
+    <li>DocumentReference</li>
+    <li>Practitioner</li>
+    <li>MedicationStatement</li>
+    <li>MedicationRequest</li>
+    <li>Observation</li>
+</ul>
+
+##
+
+### Fast Healthcare Interoperability Resources (FHIR)
+<p>FHIR is a standard for exchanging electronic health records (EHRs) between different systems. 
+It is a next-generation interoperability standard developed by the standards organization Health Level 7 (HL7®).</p>
+
+<hr>
 This project demonstrates how to interact with FHIR APIs using JWT authentication and bulk data requests. The project is split into three main scripts:
 
 - **`generate_keys.sh`**: Generates public and private key files.
 - **`token_manager.py`**: Generates an access token and writes it to a file.
 - **`bulk_data_request.py`**: Handles the bulk data request process.
 
----
 
 ## Configuration
 
